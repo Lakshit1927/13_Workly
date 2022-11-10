@@ -1,11 +1,11 @@
 # 13_Workly
 
 GROUP MEMBERS:
-20104043  Lakshit Patil
+               20104043  Lakshit Patil
 
-20104102  Kritika Donde
+               20104102  Kritika Donde
               
-20104126  Disha Panchal
+               20104126  Disha Panchal
               
        An Employee Management System is a distributed application that will be developed to maintain the details of employees working in any organization. 
        It would maintain the information about the personal details of employees, so that the human resource of the organization can easily know the details of all its employees. 
